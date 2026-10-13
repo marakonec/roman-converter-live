@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{53746eee-737f-4160-9e95-52f74fecc90f}</ProjectGuid>
+    <ProjectGuid>{C5E1CB7E-6369-C1CE-5A04-9FF88686BF4F}</ProjectGuid>
     <RootNamespace>romanconverterlive</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
