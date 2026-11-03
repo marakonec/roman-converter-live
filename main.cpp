@@ -25,7 +25,7 @@ std::string intToRoman(int number)
 int main()
 {
 	SetConsoleOutputCP(1251);
-	std::cout << "Конвертер римських чисел. Версія 1.0\n";
+	std::cout << "Конвертер римських чисел 1.0, діапазон 1-3999\n";
 	std::cout << "2026 = " << intToRoman(2026) << "\n";
 	std::cout << "4000 = " << intToRoman(4000) << "\n";
 
