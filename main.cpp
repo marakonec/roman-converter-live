@@ -28,5 +28,11 @@ int main()
 	std::cout << "Конвертер римських чисел\n";
 	std::cout << "2026 = " << intToRoman(2026) << "\n";
 	std::cout << "4000 = " << intToRoman(4000) << "\n";
+
+	const int examples[] = { 4, 9, 14, 40, 90, 400, 1994 };
+	std::cout << "\nПриклади:\n";
+	for (int i = 0; i < 7; ++i)
+		std::cout << examples[i] << " = " << intToRoman(examples[i]) << "\n";
+
 	return 0;
 }
